@@ -25,11 +25,28 @@ This repository is structured to keep track of the labs and exercises I complete
 
 ```plaintext
 learning-journey/
-├── AWS/
-│   ├── Lab-01-Explore-and-interact-with-the-AWS-Management-Console-and-AWS-Command-Line-Interface-(CLI)/
-│   ├── Lab-02-Build-an-Amazon-VPC-infrastructure/
-│   |── Lab-03-Create-a-database-layer-in-Amazon-VPC-infrastructure/
-|   |── Lab-04-Configure-high-availability-in-an-Amazon-VPC/
+AWS/
+├── Lab-01/
+│   └── README.md    # Contains "Explore and interact with the AWS Management Console and CLI"
+├── Lab-02/
+│   └── README.md    # Contains "Build an Amazon VPC infrastructure"
+|── Lab-03/
+│   └── README.md    # Contains "Create a database layer in Amazon VPC infrastructure"
+|── Lab-04/
+│   └── README.md    # Contains "Configure high availability in an Amazon VPC"
+├── Lab-05/
+│   └── README.md    # Contains ""
+├── Lab-06/
+│   └── README.md    # Contains ""
+|── Lab-07/
+│   └── README.md    # Contains ""
+
+
+
+
+
+
+
 ├── AKAMAI/
 │   ├── Lab-01-/
 │   └── ...
