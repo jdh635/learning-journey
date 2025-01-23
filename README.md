@@ -15,9 +15,9 @@ This repository is structured to keep track of the labs and exercises I complete
 - **AWS Solutions Architect Associate** - Logging labs and exercises as I prepare for the certification.
 
 ### Future Topics:
-- Other cloud platforms (AKAMAI).
-- Systems design and architecture.
-- DevOps tools and practices.
+- Exploring other cloud platforms, starting with Akamai.
+- Diving into systems design and architecture.
+- Mastering DevOps tools and practices.
 
 ---
 
@@ -26,10 +26,10 @@ This repository is structured to keep track of the labs and exercises I complete
 ```plaintext
 learning-journey/
 ├── AWS/
-│   ├── Lab-01-Explore-and-interact-with-the-AWS-Management-Console-and-AWS-Command-Line-Interface-(CLI)/       # EXPLORER
-│   ├── Lab-02-Build-an-Amazon-VPC-infrastructure/       # VPC
-│   |── Lab-03-Create-a-database-layer-in-Amazon-VPC-infrastructure/       # VPC
-|   |── Lab-04-Configure-high-availability-in-an-Amazon-VPC/       # VPC
+│   ├── Lab-01-Explore-and-interact-with-the-AWS-Management-Console-and-AWS-Command-Line-Interface-(CLI)/
+│   ├── Lab-02-Build-an-Amazon-VPC-infrastructure/
+│   |── Lab-03-Create-a-database-layer-in-Amazon-VPC-infrastructure/
+|   |── Lab-04-Configure-high-availability-in-an-Amazon-VPC/
 ├── AKAMAI/
 │   ├── Lab-01-/
 │   └── ...
