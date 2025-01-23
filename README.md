@@ -35,11 +35,11 @@ AWS/
 |── Lab-04/
 │   └── README.md    # Contains "Configure high availability in an Amazon VPC"
 ├── Lab-05/
-│   └── README.md    # Contains ""
+│   └── README.md    # Contains "Build a Serverless Architecture"
 ├── Lab-06/
-│   └── README.md    # Contains ""
+│   └── README.md    # Contains "Configure an Amazon CloudFront distribution with an Amazon S3 origin"
 |── Lab-07/
-│   └── README.md    # Contains ""
+│   └── README.md    # Contains "Capstone - Build an AWS multi-tier architecture"
 
 
 
