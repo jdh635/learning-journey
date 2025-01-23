@@ -11,17 +11,17 @@ This repository is structured to keep track of the labs and exercises I complete
 - Document what I’ve learned in a clear and reusable way.
 - Showcase my problem-solving and technical abilities.
 
-### Current Focus:
+### 🔍 Current Focus:
 - **AWS Solutions Architect Associate** - Logging labs and exercises as I prepare for the certification. This journey culminates in a **capstone project**, where I will design and build a **multi-tier architecture on AWS** that integrates everything I’ve learned.
 
-### Future Topics:
+### 🎯 Future Topics:
 - Exploring other cloud platforms, starting with Akamai.
 - Diving into systems design and architecture.
 - Mastering DevOps tools and practices.
 
 ---
 
-## 🌟 The Learning Journey: Building Toward the Capstone
+## ☁️ The Learning Journey: Building Toward the Capstone
 
 This journey is designed as a series of increasingly challenging labs, each building on the knowledge gained from the previous one. Each lab introduces key AWS concepts, hands-on practice, and real-world scenarios.
 
@@ -54,3 +54,14 @@ AKAMAI/
 ├── ...
 README.md                     # This file
 LICENSE                       # License for the repo
+```
+
+## 🔥 Highlights of the Capstone Project
+The Capstone Project will include:
+
+Designing a highly available, scalable, and secure architecture.
+Leveraging key AWS services such as EC2, RDS, S3, CloudFront, IAM, and Route 53.
+Implementing best practices for disaster recovery, including backups and multi-AZ deployments.
+Deploying a serverless component for part of the architecture.
+Optimising costs while maintaining performance.
+This project will demonstrate how I can apply AWS skills to solve real-world problems, making it the perfect finale for my learning journey.
