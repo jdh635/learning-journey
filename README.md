@@ -11,8 +11,6 @@ This repository is structured to keep track of the labs and exercises I complete
 - Document what I’ve learned in a clear and reusable way.
 - Showcase my problem-solving and technical abilities.
 
-### ✅ Completed Objectives:
-
 ### 🔍 Current Focus:
 - **AWS Solutions Architect Associate** - Logging labs and exercises as I prepare for the certification. This journey culminates in a **capstone project**, where I will design and build a **multi-tier architecture on AWS** that integrates everything I’ve learned.
 
@@ -67,3 +65,22 @@ Implementing best practices for disaster recovery, including backups and multi-A
 Deploying a serverless component for part of the architecture.
 Optimising costs while maintaining performance.
 This project will demonstrate how I can apply AWS skills to solve real-world problems, making it the perfect finale for my learning journey.
+
+---
+
+## ✅ Progress Tracker
+
+### General Objectives
+- ✅ Create this repository
+- ✅ Set up the initial folder structure
+- ✅ Write the main README file
+- 🔄 Start documenting Lab 01: Explore AWS Management Console and CLI
+
+### AWS Labs
+- ❌ Lab 01: Explore AWS Management Console and CLI
+- ❌ Lab 02: Build an Amazon VPC Infrastructure
+- ❌ Lab 03: Create a Database Layer in Amazon VPC
+- ❌ Lab 04: Configure High Availability in an Amazon VPC
+- ❌ Lab 05: Build a Serverless Architecture
+- ❌ Lab 06: Configure an Amazon CloudFront Distribution with an Amazon S3 Origin
+- ❌ Lab 07: Capstone - Build an AWS Multi-Tier Architecture
