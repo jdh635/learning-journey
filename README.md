@@ -25,7 +25,7 @@ This repository is structured to keep track of the labs and exercises I complete
 
 This journey is designed as a series of increasingly challenging labs, each building on the knowledge gained from the previous one. Each lab introduces key AWS concepts, hands-on practice, and real-world scenarios.
 
-At the end of this journey, I'll tackle the **Capstone Project**: **"Build a Multi-Tier Architecture on AWS"**. This project brings together all the foundational skills learned, showcasing my ability to design, implement, and optimize a full-fledged architecture on the AWS cloud platform.
+At the end of this journey, I'll tackle the **Capstone Project**: **"Build a Multi-Tier Architecture on AWS"**. This project brings together all the foundational skills learned, showcasing my ability to design, implement, and optimise a full-fledged architecture on the AWS cloud platform.
 
 ---
 
