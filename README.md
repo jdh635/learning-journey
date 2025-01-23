@@ -1,6 +1,6 @@
 # Learning Journey 🚀
 
-Welcome to my learning journey! This repository is a log of the technical skills and knowledge I am developing, starting with AWS and expanding into other systems. I’ll document my progress, labs, and challenges here.
+Welcome to my learning journey! This repository is a log of the technical skills and knowledge I am developing, starting with AWS and expanding into other systems. I will document my progress, labs, and challenges here.
 
 ---
 
@@ -15,7 +15,7 @@ This repository is structured to keep track of the labs and exercises I complete
 - **AWS Solutions Architect Associate** - Logging labs and exercises as I prepare for the certification.
 
 ### Future Topics:
-- Other cloud platforms (e.g., AKAMAI).
+- Other cloud platforms (AKAMAI).
 - Systems design and architecture.
 - DevOps tools and practices.
 
