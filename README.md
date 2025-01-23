@@ -7,7 +7,7 @@ Welcome to my learning journey! This repository is a log of the technical skills
 ## 📖 About This Repository
 
 This repository is structured to keep track of the labs and exercises I complete during my learning process. The goal is to:
-- Organize my work and track progress.
+- Organise my work and track progress.
 - Document what I’ve learned in a clear and reusable way.
 - Showcase my problem-solving and technical abilities.
 
