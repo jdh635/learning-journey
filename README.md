@@ -26,9 +26,10 @@ This repository is structured to keep track of the labs and exercises I complete
 ```plaintext
 learning-journey/
 ├── AWS/
-│   ├── Lab-01-Name-Of-Lab/       # S3 setup
-│   ├── Lab-02-Name-Of-Lab/       # EC2
-│   └── ...
+│   ├── Lab-01-Explore-and-interact-with-the-AWS-Management-Console-and-AWS-Command-Line-Interace-(CLI)/       # EXPLORER
+│   ├── Lab-02-Cuild-an-Amazon-VPC-infrastructure/       # VPC
+│   |── Lab-03-Create-a-database-layer-in-Amazon-VPC-infrastructure/       # VPC
+|   |── Lab-04-Configure-high-availability-in-an-Amazon-VPC/       # VPC
 ├── AKAMAI/
 │   ├── Lab-01-Name-Of-Lab/
 │   └── ...
