@@ -1,6 +1,8 @@
-# Learning Journey ☁️🚀☁️
+# Learning Journey ☁️
 
-Welcome to my learning journey! This repository is a log of the technical skills and knowledge I am developing, starting with AWS and expanding into other systems. Here, I will document my progress, completed labs, and challenges I encounter as I build my way toward mastering cloud architecture.
+Welcome to my learning journey! 
+
+This repository is a log of the technical skills and knowledge I am developing, starting with AWS and expanding into other systems. Here, I will document my progress, completed labs, and challenges I encounter as I build my way toward mastering cloud architecture.
 
 ---
 
