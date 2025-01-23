@@ -1,6 +1,6 @@
-# Learning Journey 🚀
+# Learning Journey ☁️🚀☁️
 
-Welcome to my learning journey! This repository is a log of the technical skills and knowledge I am developing, starting with AWS and expanding into other systems. I will document my progress, labs, and challenges here.
+Welcome to my learning journey! This repository is a log of the technical skills and knowledge I am developing, starting with AWS and expanding into other systems. Here,I will document my progress, completed labs, and challenges I encounter.
 
 ---
 
@@ -26,12 +26,12 @@ This repository is structured to keep track of the labs and exercises I complete
 ```plaintext
 learning-journey/
 ├── AWS/
-│   ├── Lab-01-Explore-and-interact-with-the-AWS-Management-Console-and-AWS-Command-Line-Interace-(CLI)/       # EXPLORER
-│   ├── Lab-02-Cuild-an-Amazon-VPC-infrastructure/       # VPC
+│   ├── Lab-01-Explore-and-interact-with-the-AWS-Management-Console-and-AWS-Command-Line-Interface-(CLI)/       # EXPLORER
+│   ├── Lab-02-Build-an-Amazon-VPC-infrastructure/       # VPC
 │   |── Lab-03-Create-a-database-layer-in-Amazon-VPC-infrastructure/       # VPC
 |   |── Lab-04-Configure-high-availability-in-an-Amazon-VPC/       # VPC
 ├── AKAMAI/
-│   ├── Lab-01-Name-Of-Lab/
+│   ├── Lab-01-/
 │   └── ...
 ├── README.md                     # This file
 └── LICENSE                       # License for the repo
