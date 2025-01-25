@@ -34,8 +34,9 @@ This lab focuses on introducing the AWS Management Console and AWS CLI, demonstr
 ### Task 4: Create and Interact with an S3 Bucket Using the AWS CLI
 1. Connected to the EC2 Command Host using AWS Systems Manager Session Manager.
 2. Ran the following CLI commands:
-   ```bash
+   
    # List S3 buckets
+  ```bash
    aws s3 ls
    
    # Create a new bucket
