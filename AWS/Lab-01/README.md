@@ -47,12 +47,12 @@ Create a new bucket
    
    Upload an object to the bucket
   ```bash
-   aws s3 cp HappyFace.jpg s3://labclibucket-123456
+   aws s3 cp HappyFace.jpg s3://labclibucket-230485
 ```
    
    List objects in the bucket
   ```bash
-   aws s3 ls s3://labclibucket-123456
+   aws s3 ls s3://labclibucket-230485
 ```
 
 3: Verified the uploaded object
