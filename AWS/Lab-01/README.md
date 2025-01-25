@@ -55,6 +55,6 @@ Create a new bucket
    aws s3 ls s3://labclibucket-123456
 ```
 
-3. Verified the uploaded object.
+3: Verified the uploaded object
 
 
