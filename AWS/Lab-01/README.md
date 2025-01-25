@@ -36,6 +36,7 @@ This lab focuses on introducing the AWS Management Console and AWS CLI, demonstr
 2. Ran the following CLI commands:
    
 List S3 buckets
+  ```bash
    aws s3 ls
 
 Create a new bucket
