@@ -1,5 +1,5 @@
 # Lab 01: Exploring and Interacting with the AWS Management Console and CLI
-![Lab01 Title](./AWS/Lab-01/screenshots/Lab01 Title.png)
+![Lab01 Title](./AWS/Lab-01/screenshots/Lab01Title.png)
 
 ## Objective
 - Explore and interact with the AWS Management Console.
