@@ -35,11 +35,10 @@ This lab focuses on introducing the AWS Management Console and AWS CLI, demonstr
 1. Connected to the EC2 Command Host using AWS Systems Manager Session Manager.
 2. Ran the following CLI commands:
    
-   List S3 buckets
-  ```bash
+List S3 buckets
    aws s3 ls
-   
-   Create a new bucket
+
+Create a new bucket
   ```bash
    aws s3 mb s3://labclibucket-123456
    
