@@ -3,7 +3,7 @@
 
 ## Objective
 - Explore and interact with the AWS Management Console.
-- Create resources using the AWS Management Console.
+- Create resources using the AWS Management Console. 
 - Explore and interact with the AWS CLI.
 - Create resources using the AWS CLI.
 
