@@ -56,4 +56,5 @@ Create a new bucket
 ```
 
 3: Verified the uploaded object
+
 ![Proof!](./screenshots/Lab01-proof.png)
