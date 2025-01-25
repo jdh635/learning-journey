@@ -21,11 +21,10 @@ This lab focuses on introducing the AWS Management Console and AWS CLI, demonstr
 
 ### Task 1: Explore the AWS Management Console
 1. Selected an AWS Region from the **Region** selector in the black bar and configured the default Region from the user settings by clciking the **Gear** icon.
-   ![Select Region](./screenshots/Lab01region.png)
 3. Navigated the AWS Console, added/removing services to/from Favorites, and explored dashboard widgets.
 
-### Task 2: Create an S3 Bucket Using the AWS Console
-1. Navigated to S3 service and created a new bucket: `labbucket-123456`.
+### Task 2: Create an S3 Bucket Using the AWS Console ![S3](./screenshots/Lab01-S3.png)
+1. Navigated to S3 service and created a new bucket: `labbucket-230485`.
 2. Configured default settings and verified the bucket creation.
 
 ### Task 3: Upload an Object to the S3 Bucket
