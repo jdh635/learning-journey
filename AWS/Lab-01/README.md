@@ -43,14 +43,17 @@ List S3 buckets
 Create a new bucket
   ```bash
    aws s3 mb s3://labclibucket-123456
+```
    
    Upload an object to the bucket
   ```bash
    aws s3 cp HappyFace.jpg s3://labclibucket-123456
+```
    
    List objects in the bucket
   ```bash
    aws s3 ls s3://labclibucket-123456
+```
 
 3. Verified the uploaded object.
 
