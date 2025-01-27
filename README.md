@@ -78,8 +78,11 @@ This project will demonstrate how I can apply AWS skills to solve real-world pro
 ### General Objectives
 - ✅ Create this repository
 - ✅ Set up the initial folder structure
+- ✅ Create a project tracker for progess
 - ✅ Write the main README file
-- 🔄 Start documenting Lab 01: Explore AWS Management Console and CLI
+- ✅ Start documenting Lab 01: Explore AWS Management Console and CLI
+- ✅ Start documenting Lab 02: Building Your Amazon VPC Infrastructure
+- 🔄 Start documenting Lab 03:
 
 ### AWS Labs
 - ❌ Lab 01: Explore AWS Management Console and CLI
