@@ -82,3 +82,58 @@ Below is the architecture I created during this lab:
    yum install -y httpd
    systemctl enable httpd
    systemctl start httpd
+
+   Launched the instance and verified that it was publicly accessible.
+ 
+---
+
+### Step 7: Created a NAT Gateway
+1. Navigated to NAT Gateways in the VPC Console.
+2. Selected Create NAT Gateway and configured:
+   - **Name**: Lab NGW
+   - **Subne**t: Public Subnet
+   -**Elastic IP**: Allocated a new Elastic IP.
+3. Verified that the NAT Gateway was successfully created.
+
+---
+
+### Step 8: Configured Routing for the Private Subnet
+1. Created a new route table named Private Route Table.
+2. Added a route to direct internet-bound traffic (0.0.0.0/0) to the NAT Gateway.
+3. Associated the Private Route Table with the Private Subnet.
+   
+---
+
+### Step 9: Created a Private Security Group
+1. Navigated to Security Groups in the VPC Console.
+2. Created a security group named Private SG with the following inbound rule:
+   **Type**: HTTP (port 80)
+   **Source**: Public SG (reference to the public security group).
+3. Assigned this security group to private-facing resources.
+   
+---
+
+### Step 10: Launched an EC2 Instance in the Private Subnet
+1. Launched another EC2 instance in the Private Subnet using the same configuration as the public instance, but with:
+2. Security Group: Private SG
+3. Auto-assign Public IP: Disabled.
+4. Used the same User Data script to configure Apache.
+5. Verified that the private instance was accessible from the public instance using its private IP.
+
+---
+
+### Key Learnings
+
+Built a complete VPC with both public and private subnets using the AWS Management Console.
+Configured routing tables for internet access via an internet gateway (public) and NAT gateway (private).
+Used security groups to control inbound and outbound traffic between public and private resources.
+Additional Resources
+Amazon VPC Overview
+AWS Security Groups
+AWS Route Tables
+
+---
+
+### Note
+
+I know from lab01 that all of this is possible using only CLI commands. I plan to run this lab again using only scripting. I need to research the syntax and commaands that could make this possible and will publish these commands as Lab-02CLI
