@@ -31,6 +31,12 @@ Step 2: Created Public and Private Subnets
 Public Subnet: Created a public subnet with CIDR block 10.0.0.0/24 and enabled auto-assignment of public IPs for instances.
 Private Subnet: Created a private subnet with CIDR block 10.0.2.0/23 for isolated resources.```
 
-### Command:
+#### Public Subnet Command:
 ```bash
 aws ec2 create-subnet --vpc-id vpc-xxxxxxxx --cidr-block 10.0.0.0/24 --availability-zone us-east-1a --tag-specifications 'ResourceType=subnet,Tags=[{Key=Name,Value=Public Subnet}]'```
+
+#### Enable Auto-Assign public IP Command:
+```bash
+aws ec2 modify-subnet-attribute --subnet-id subnet-xxxxxxxx --map-public-ip-on-launch```
+
+
