@@ -1,4 +1,4 @@
-# ☁️ Learning Journey ☁️
+#☁️ Learning Journey ☁️
 
 Welcome to my learning journey! 
 
