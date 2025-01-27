@@ -1,6 +1,6 @@
 # Lab 2: Building Your Amazon VPC Infrastructure
 
-![Lab 2 Title](./Screenshots/Lab02 Title.png)
+![Diagram](./Screenshots/Lab02_Title.png)
 
 ## Objective
 The purpose of this lab was to:
