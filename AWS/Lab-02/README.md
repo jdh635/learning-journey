@@ -21,12 +21,12 @@ Step 1: Created an Amazon VPC
 - Enabled **DNS hostnames** to assign DNS names to EC2 instances in the VPC.
 - Verified the VPC state to ensure it was `Available`.
 
+Create new VPC
 #### Command:
 ```bash
 aws ec2 create-vpc --cidr-block 10.0.0.0/16 --tag-specifications 'ResourceType=vpc,Tags=[{Key=Name,Value=Lab VPC}]'
 ```
-#### Command:
-```bash
+
 Step 2: Created Public and Private Subnets
 Public Subnet: Created a public subnet with CIDR block 10.0.0.0/24 and enabled auto-assignment of public IPs for instances.
 Private Subnet: Created a private subnet with CIDR block 10.0.2.0/23 for isolated resources.
