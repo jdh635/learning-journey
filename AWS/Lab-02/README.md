@@ -13,7 +13,7 @@ The purpose of this lab was to:
 ## Architecture Diagram
 Below is the architecture I created during this lab:
 
-![Lab 2 Architecture Diagram](./diagrams/Lab2_VPC_Architecture.png)
+![Lab 2 Architecture Diagram](./Screenshots/Lab2-Overview.png)
 
 ---
 
