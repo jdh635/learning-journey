@@ -24,6 +24,7 @@ Step 1: Created an Amazon VPC
 #### Command:
 ```bash
 aws ec2 create-vpc --cidr-block 10.0.0.0/16 --tag-specifications 'ResourceType=vpc,Tags=[{Key=Name,Value=Lab VPC}]'
+```
 #### Command:
 ```bash
 Step 2: Created Public and Private Subnets
