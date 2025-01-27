@@ -30,6 +30,7 @@ Below is the architecture I created during this lab:
 ---
 
 ### Step 2: Created Public and Private Subnets
+![Diagram](./Screenshots/Lab2-Task2.png)
 - **Public Subnet**:
   1. Navigated to **Subnets** in the VPC Console.
   2. Selected **Create Subnet** and configured:
@@ -70,6 +71,7 @@ Below is the architecture I created during this lab:
 ---
 
 ### Step 6: Launched an EC2 Instance in the Public Subnet
+![Diagram](./Screenshots/Lab2-Task6.png)
 1. Navigated to the **EC2 Console** and selected **Launch Instance**.
 2. Configured the instance:
    - **AMI**: Amazon Linux 2023
