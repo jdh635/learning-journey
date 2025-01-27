@@ -86,13 +86,11 @@ This project will demonstrate how I can apply AWS skills to solve real-world pro
 - ✅ Set up the initial folder structure
 - ✅ Create a project tracker for progess
 - ✅ Write the main README file
-- ✅ Start documenting Lab 01: Explore AWS Management Console and CLI
-- ✅ Start documenting Lab 02: Building Your Amazon VPC Infrastructure
-- 🔄 Start documenting Lab 03:
+- 🔄 Document Labs:
 
 ### AWS Labs
-- ❌ Lab 01: Explore AWS Management Console and CLI
-- ❌ Lab 02: Build an Amazon VPC Infrastructure
+- ✅ Lab 01: Explore AWS Management Console and CLI
+- ✅ Lab 02: Build an Amazon VPC Infrastructure
 - ❌ Lab 03: Create a Database Layer in Amazon VPC
 - ❌ Lab 04: Configure High Availability in an Amazon VPC
 - ❌ Lab 05: Build a Serverless Architecture
