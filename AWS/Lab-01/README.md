@@ -1,5 +1,5 @@
 # Lab 01: Exploring and Interacting with the AWS Management Console and CLI
-![Diagram](./Sreenshots/Lab02_Title.png)
+![Diagram](./screenshots/Lab-1-Overview.png)
 
 ## System Architecture
 ![Diagram](./screenshots/Lab-1-Overview.png)
