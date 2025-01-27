@@ -8,6 +8,12 @@ Here, I will document my progress, completed labs, and challenges I encounter as
 
 ---
 
+## Project Planner
+
+https://github.com/users/jdh635/projects/2
+
+---
+
 ## 📖 About This Repository
 
 This repository is structured to keep track of the labs and exercises I complete during my learning process. The goal is to:
