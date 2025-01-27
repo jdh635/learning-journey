@@ -14,7 +14,7 @@ This repository is structured to keep track of the labs and exercises I complete
 - Organise my work and track progress.
 - Document what I’ve learned in a clear and reusable way.
 - Showcase my problem-solving and technical abilities.
-- Log results from practice exams in preparation for certifaction.
+- Log results from practice exams in preparation for certification.
 
 ### 🔍 Current Focus:
 - **AWS Solutions Architect Associate** - Logging labs and exercises as I prepare for the certification. This journey culminates in a **capstone project**, where I will design and build a **multi-tier architecture on AWS** that integrates everything I’ve learned.
