@@ -1,5 +1,7 @@
 # Lab 2: Building Your Amazon VPC Infrastructure
 
+![Lab 2 Title](./Screemshots/Lab02 Title.png)
+
 ## Objective
 The purpose of this lab was to:
 - Build a VPC architecture in AWS with public and private subnets, an internet gateway, and a NAT gateway.
