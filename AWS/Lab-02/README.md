@@ -140,4 +140,4 @@ AWS Route Tables
 
 ### Note
 
-I know from lab01 that all of this is possible using only CLI commands. I plan to run this lab again using only scripting. I need to research the syntax and commaands that could make this possible and will publish these commands as Lab-02CLI
+I know from lab01 that all of this is possible using only CLI commands. I plan to run this lab again using only scripting. I need to research the syntax and commands that could make this possible and will publish these commands as Lab-02CLI
