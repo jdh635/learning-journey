@@ -47,18 +47,25 @@ learning-journey/
 AWS/
 ├── Lab-01/
 │   └── README.md    # Explore and interact with the AWS Management Console and CLI
+│   └──screenshots
 ├── Lab-02/
 │   └── README.md    # Build an Amazon VPC infrastructure
+│   └──screenshots
 ├── Lab-03/
 │   └── README.md    # Create a database layer in Amazon VPC infrastructure
+│   └──screenshots
 ├── Lab-04/
 │   └── README.md    # Configure high availability in an Amazon VPC
+│   └──screenshots
 ├── Lab-05/
 │   └── README.md    # Build a Serverless Architecture
+│   └──screenshots
 ├── Lab-06/
 │   └── README.md    # Configure an Amazon CloudFront distribution with an Amazon S3 origin
+│   └──screenshots
 ├── Lab-07/
 │   └── README.md    # **Capstone** - Build an AWS multi-tier architecture
+│   └──screenshots
 AKAMAI/
 ├── Lab-01/
 │   └── README.md
