@@ -2,7 +2,6 @@
 
 ## System Architecture
 ![Diagram](./screenshots/Lab-1-Overview.png)
-![Diagram2](./screenshots/Lab01-Overview2.png)
 
 ## Objective
 - Explore and interact with the AWS Management Console.
