@@ -87,7 +87,7 @@ Below is the architecture I created during this lab:
    systemctl enable httpd
    systemctl start httpd
 
-   Launched the instance and verified that it was publicly accessible.
+   '''Launched the instance and verified that it was publicly accessible.
  
 ---
 
