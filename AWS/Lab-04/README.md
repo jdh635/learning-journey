@@ -12,7 +12,7 @@ The purpose of this lab was to:
 ## Architecture Diagram
 Below is the final high availability architecture I implemented:
 
-![Lab 4 Architecture Diagram](./PIC1)
+![Lab 4 Architecture Diagram](./Screenshots/lab-4-overview.png)
 
 ---
 
