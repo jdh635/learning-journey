@@ -14,7 +14,7 @@ The purpose of this lab was to:
 ## Architecture Diagram
 Below is the final database layer architecture I implemented:
 
-![Lab 3 Architecture Diagram](./Lab3-overview.png)
+![Lab 3 Architecture Diagram](./Screenshots/Lab3-overview.png)
 ---
 
 ## What I Did
@@ -41,7 +41,7 @@ To establish a managed database layer, I set up an **Aurora DB cluster** for MyS
 ### Step 2: Created an Application Load Balancer
 To distribute traffic between the front-end EC2 instances, I deployed an **Application Load Balancer (ALB)**.
 
-![Lab 3 Architecture Diagram](./Lab3-ALB.png)
+![Lab 3 Architecture Diagram](./Screenshots/Lab3-ALB.png)
 
 1. Navigated to **EC2 > Load Balancers**.
 2. Selected **Create Load Balancer** and configured:
