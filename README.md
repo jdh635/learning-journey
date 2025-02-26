@@ -98,8 +98,8 @@ This project will demonstrate how I can apply AWS skills to solve real-world pro
 ### AWS Labs
 - ✅ Lab 01: Explore AWS Management Console and CLI
 - ✅ Lab 02: Build an Amazon VPC Infrastructure
-- ❌ Lab 03: Create a Database Layer in Amazon VPC
-- ❌ Lab 04: Configure High Availability in an Amazon VPC
-- ❌ Lab 05: Build a Serverless Architecture
-- ❌ Lab 06: Configure an Amazon CloudFront Distribution with an Amazon S3 Origin
-- ❌ Lab 07: Capstone - Build an AWS Multi-Tier Architecture
+- ✅ Lab 03: Create a Database Layer in Amazon VPC
+- ✅ Lab 04: Configure High Availability in an Amazon VPC
+- ✅ Lab 05: Build a Serverless Architecture
+- ✅ Lab 06: Configure an Amazon CloudFront Distribution with an Amazon S3 Origin
+- ✅ Lab 07: Capstone - Build an AWS Multi-Tier Architecture
