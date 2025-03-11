@@ -1,6 +1,6 @@
-###### Lab 5: Building a Serverless Architecture
+# Lab 5: Building a Serverless Architecture
 
-###### Objective
+## Objective
 
 - Create and configure an **Amazon SNS** topic.
 - Set up **Amazon SQS** queues and subscribe them to SNS.
