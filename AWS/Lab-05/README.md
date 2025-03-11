@@ -11,7 +11,7 @@
 ## Overview
 
 This lab focuses on implementing a **serverless architecture** using **Amazon SNS, Amazon SQS, AWS Lambda, and Amazon S3**. The goal is to **automate image processing** by replacing **EC2 instances** with **Lambda functions** to optimize **cost and efficiency**.
-
+![Lab 5 Architecture Diagram](./Screenshots/lab-5-overview.jpg)
 ---
 
 #### Steps Taken
