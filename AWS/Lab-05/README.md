@@ -8,15 +8,15 @@
 - Deploy and configure **AWS Lambda** functions.
 - Monitor **AWS Lambda** function executions using **CloudWatch**.
 
-###### Overview
+## Overview
 
 This lab focuses on implementing a **serverless architecture** using **Amazon SNS, Amazon SQS, AWS Lambda, and Amazon S3**. The goal is to **automate image processing** by replacing **EC2 instances** with **Lambda functions** to optimize **cost and efficiency**.
 
 ---
 
-###### Steps Taken
+#### Steps Taken
 
-###### Task 1: Create an Amazon SNS Topic
+### Task 1: Create an Amazon SNS Topic
 
 - Navigated to **Amazon SNS** and created a topic named `resize-image-topic-1985`.
 
@@ -30,7 +30,7 @@ This lab focuses on implementing a **serverless architecture** using **Amazon SN
 
 ---
 
-###### Task 2: Create Amazon SQS Queues and Subscribe to SNS
+### Task 2: Create Amazon SQS Queues and Subscribe to SNS
 
 - Created an **SQS queue** named `thumbnail-queue` and subscribed it to SNS.
 - Created an **SQS queue** named `mobile-queue` and subscribed it to SNS.
@@ -40,7 +40,7 @@ This lab focuses on implementing a **serverless architecture** using **Amazon SN
 
 ---
 
-###### Task 3: Create an Amazon S3 Event Notification
+### Task 3: Create an Amazon S3 Event Notification
 
 - Configured **event notifications** in an **S3 bucket** to trigger SNS when a file is uploaded to the **ingest/** folder.
 
@@ -48,9 +48,9 @@ This lab focuses on implementing a **serverless architecture** using **Amazon SN
 
 ---
 
-###### Task 4: Create and Configure AWS Lambda Functions
+### Task 4: Create and Configure AWS Lambda Functions
 
-###### Create a Lambda Function for Thumbnail Generation
+#### Create a Lambda Function for Thumbnail Generation
 
 - Created a **Lambda function** named `CreateThumbnail` with an **SQS trigger** for `thumbnail-queue`.
 - Uploaded **deployment package** from S3:
@@ -61,7 +61,7 @@ This lab focuses on implementing a **serverless architecture** using **Amazon SN
 
 ---
 
-###### Create a Lambda Function for Mobile Image Generation
+#### Create a Lambda Function for Mobile Image Generation
 
 - Created a **Lambda function** named `CreateMobileImage` with an **SQS trigger** for `mobile-queue`.
 - Uploaded **deployment package** from S3:
@@ -72,7 +72,7 @@ This lab focuses on implementing a **serverless architecture** using **Amazon SN
 
 ---
 
-###### Task 5: Upload an Image to S3 and Trigger Processing
+### Task 5: Upload an Image to S3 and Trigger Processing
 
 - Uploaded a **test image** (`InputFile.jpg`) to the **ingest/** folder in S3.
 - Verified that **SNS triggered the Lambda functions** via SQS.
@@ -81,9 +81,9 @@ This lab focuses on implementing a **serverless architecture** using **Amazon SN
 
 ---
 
-###### Task 6: Validate Processed Files
+### Task 6: Validate Processed Files
 
-###### Review CloudWatch Logs
+#### Review CloudWatch Logs
 
 - Checked **AWS Lambda logs** in **CloudWatch** for execution details.
 - Verified **successful execution** of Lambda functions.
@@ -92,7 +92,7 @@ This lab focuses on implementing a **serverless architecture** using **Amazon SN
 
 ---
 
-###### Validate Processed Images in S3
+#### Validate Processed Images in S3
 
 - Navigated to **S3** and verified that **resized images** were successfully created and stored in designated folders.
 
@@ -100,9 +100,9 @@ This lab focuses on implementing a **serverless architecture** using **Amazon SN
 
 ---
 
-###### Optional Tasks
+## Optional Tasks
 
-###### Set Up a Lifecycle Rule
+### Set Up a Lifecycle Rule
 
 - Configured a **lifecycle rule** named `30dayclean` to delete files in the **ingest/** folder **after 30 days**.
 
@@ -110,7 +110,7 @@ This lab focuses on implementing a **serverless architecture** using **Amazon SN
 
 ---
 
-###### Add an Email Notification to SNS
+### Add an Email Notification to SNS
 
 - Subscribed an **email address** to SNS and confirmed the subscription.
 - Proof: Screenshot taken as **evidence of email subscription confirmation**.
@@ -119,7 +119,7 @@ This lab focuses on implementing a **serverless architecture** using **Amazon SN
 
 ---
 
-###### Lab Completion Summary
+## Lab Completion Summary
 
 - **Final Status:** ✅ Completed Successfully
 - **Time Taken:** _(Insert Duration)_
