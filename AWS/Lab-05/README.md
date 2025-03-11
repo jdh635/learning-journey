@@ -22,12 +22,6 @@ This lab focuses on implementing a **serverless architecture** using **Amazon SN
 
 - Navigated to **Amazon SNS** and created a topic named `resize-image-topic-1985`.
 
-  **Details Noted:**
-  - **Name:** `resize-image-topic-1985`
-  - **ARN:** `arn:aws:sns:eu-west-2:496941116424:resize-image-topic-1985`
-  - **Type:** Standard
-  - **Topic Owner:** `496941116424`
-
   **Result:** ✅ SNS topic created successfully.
 
 ---
@@ -120,11 +114,5 @@ This lab focuses on implementing a **serverless architecture** using **Amazon SN
   **Result:** ✅ Successfully received SNS email notifications.
 
 ---
-
-## Lab Completion Summary
-
-- **Final Status:** ✅ Completed Successfully
-- **Time Taken:** _(Insert Duration)_
-- **Final Thoughts:** _(Insert Notes on Experience)_
 
 For future reference, see **AWS Training and Certification**.
