@@ -65,11 +65,8 @@ AWS/
 │   └──screenshots
 ├── Lab-07/
 │   └── README.md    # **Capstone** - Build an AWS multi-tier architecture
-│   └──screenshots
-AKAMAI/
-├── Lab-01/
-│   └── README.md
-├── ...
+    └──screenshots
+
 README.md                     # This file
 LICENSE                       # License for the repo
 ```
